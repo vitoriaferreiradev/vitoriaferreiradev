@@ -7,8 +7,8 @@
   - 📫 Contate-me no email: vitoriasouzaf@hotmail.com
 
 <div>
-    <a href="https://github.com/vitoriaferreiradev"><img height="180cm" src="https://github-readme-stats.vercel.app/api?username=vitoriaferreiradev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></a>
-    <a href="https://github.com/vitoriaferreiradev"><img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaferreiradev&layout=compact&langs_count=16&theme=radical"/></a>
+    <a href="https://github.com/vitoriaferreiradev"><img height="160cm" src="https://github-readme-stats.vercel.app/api?username=vitoriaferreiradev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></a>
+    <a href="https://github.com/vitoriaferreiradev"><img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaferreiradev&layout=compact&langs_count=16&theme=radical"/></a>
 </div>
 
 <div style="display: inline-block;"></br>
