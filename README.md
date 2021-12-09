@@ -19,9 +19,10 @@
     <img align="center" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript logo">
     <img align="center" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo">
     </a>
-    <img align="right" height="180" width="180" src="https://im2.ezgif.com/tmp/ezgif-2-ce2e5056fd05.gif" alt="gif">
 </div>
 
 ##
 
 Thanks for visiting! 👩🏽‍🦱💕 
+
+<!-- <img align="right" height="180" width="180" src="https://im2.ezgif.com/tmp/ezgif-2-ce2e5056fd05.gif" alt="gif"> -->
