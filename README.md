@@ -1,6 +1,6 @@
 ### Olá mundo, eu sou a Vitória Ferreira! 👋
   
-  - 📚 Estudando JS e React
+  - 📚 Estudando ReactJS
   - 🔍 Em uma busca constante de melhorar meus conhecimentos e habilidades
   - 🏹 Futura desenvolvedora frontend
   - 😄 Pronouns: ela/dela
