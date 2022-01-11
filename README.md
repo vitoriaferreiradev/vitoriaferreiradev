@@ -1,8 +1,7 @@
 ### Olá mundo, eu sou a Vitória Ferreira! 👋
   
-  - 📚 Estudando ReactJS
   - 🔍 Em uma busca constante de melhorar meus conhecimentos e habilidades
-  - 🏹 Futura desenvolvedora frontend
+  - 🏹 Futura desenvolvedora fullstack
   - 😄 Pronouns: ela/dela
   - 📫 Contate-me no email: vitoriasouzaf@hotmail.com
 
