@@ -1,7 +1,7 @@
 ### Olá mundo, eu sou a Vitória Ferreira! 👋
   
   - 🔍 Em uma busca constante de melhorar meus conhecimentos e habilidades
-  - 🏹 Futura desenvolvedora fullstack
+  - 🏹 Desenvolvedora fullstack
   - 😄 Pronouns: ela/dela
   - 📫 Contate-me no email: vitoriasouzaf@hotmail.com
 
