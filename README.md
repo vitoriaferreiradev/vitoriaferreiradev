@@ -23,5 +23,3 @@
 ##
 
 Thanks for visiting! 👩🏽‍🦱💕 
-
-<!-- <img align="right" height="180" width="180" src="https://im2.ezgif.com/tmp/ezgif-2-ce2e5056fd05.gif" alt="gif"> -->
