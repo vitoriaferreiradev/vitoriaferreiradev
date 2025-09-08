@@ -15,7 +15,7 @@ Atualmente estou em transição de carreira para a área de Qualidade de Softwar
 
 📫 Onde me encontrar
 
-- 💼 [LinkedIn](www.linkedin.com/in/vitória-ferreira-132a271a0)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vitória-ferreira-132a271a0)
 - ✉️ Email: vitoriasouzaf@hotmail.com
 
 ### Tecnologias e Ferramentas
